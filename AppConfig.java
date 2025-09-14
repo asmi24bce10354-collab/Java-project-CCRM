@@ -1,4 +1,3 @@
-// File: AppConfig.java
 package edu.ccrm.config;
 
 import java.nio.file.Paths;

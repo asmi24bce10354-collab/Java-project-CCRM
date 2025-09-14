@@ -1,4 +1,3 @@
-// File: Main.java
 package edu.ccrm.cli;
 
 import edu.ccrm.config.AppConfig;
